@@ -1,2 +1,2 @@
 # ActiveInstance
-active = True
+active
